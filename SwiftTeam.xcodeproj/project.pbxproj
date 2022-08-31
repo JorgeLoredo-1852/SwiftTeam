@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F7063D3928BECEBF000AAC88 /* FotoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7063D3828BECEBF000AAC88 /* FotoViewController.swift */; };
+		FB7DC2F128BED34B00BC11ED /* WhatsApp Image 2022-08-30 at 6.21.54 PM.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FB7DC2F028BED34B00BC11ED /* WhatsApp Image 2022-08-30 at 6.21.54 PM.jpeg */; };
 		FB82187F28B7BADD001C3881 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB82187E28B7BADD001C3881 /* AppDelegate.swift */; };
 		FB82188128B7BADD001C3881 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB82188028B7BADD001C3881 /* SceneDelegate.swift */; };
 		FB82188328B7BADD001C3881 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FB82188228B7BADD001C3881 /* ViewController.swift */; };
@@ -18,6 +19,7 @@
 
 /* Begin PBXFileReference section */
 		F7063D3828BECEBF000AAC88 /* FotoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FotoViewController.swift; sourceTree = "<group>"; };
+		FB7DC2F028BED34B00BC11ED /* WhatsApp Image 2022-08-30 at 6.21.54 PM.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "WhatsApp Image 2022-08-30 at 6.21.54 PM.jpeg"; path = "../../../../Downloads/WhatsApp Image 2022-08-30 at 6.21.54 PM.jpeg"; sourceTree = "<group>"; };
 		FB82187B28B7BADD001C3881 /* SwiftTeam.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftTeam.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FB82187E28B7BADD001C3881 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FB82188028B7BADD001C3881 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				FB82188228B7BADD001C3881 /* ViewController.swift */,
 				FB82188428B7BADD001C3881 /* Main.storyboard */,
 				F7063D3828BECEBF000AAC88 /* FotoViewController.swift */,
+				FB7DC2F028BED34B00BC11ED /* WhatsApp Image 2022-08-30 at 6.21.54 PM.jpeg */,
 				FB82188728B7BAE0001C3881 /* Assets.xcassets */,
 				FB82188928B7BAE0001C3881 /* LaunchScreen.storyboard */,
 				FB82188C28B7BAE0001C3881 /* Info.plist */,
@@ -130,6 +133,7 @@
 			files = (
 				FB82188B28B7BAE0001C3881 /* LaunchScreen.storyboard in Resources */,
 				FB82188828B7BAE0001C3881 /* Assets.xcassets in Resources */,
+				FB7DC2F128BED34B00BC11ED /* WhatsApp Image 2022-08-30 at 6.21.54 PM.jpeg in Resources */,
 				FB82188628B7BADD001C3881 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
